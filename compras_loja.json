@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": "92319",
+        "nome": "Ampulheta de Acr\u00edlico",
+        "quantidade": 2,
+        "preco": 2.5
+    },
+    {
+        "codigo": "51242",
+        "nome": "Est\u00e1tua da Liberdade de Madeira",
+        "quantidade": 4,
+        "preco": 1.5
+    },
+    {
+        "codigo": "83727",
+        "nome": "Globo Terrestre Miniatura",
+        "quantidade": 4,
+        "preco": 3.75
+    },
+    {
+        "codigo": "48472",
+        "nome": "Pap\u00e9is de Embrulho",
+        "quantidade": 10,
+        "preco": 0.75
+    },
+    {
+        "codigo": "58338",
+        "nome": "Disco de Vitrola Miniatura",
+        "quantidade": 2,
+        "preco": 3.5
+    },
+    {
+        "codigo": "",
+        "nome": "",
+        "quantidade": 3,
+        "preco": 3.15
+    },
+    {
+        "codigo": "84727",
+        "nome": "Cristo Redentor Miniatura",
+        "quantidade": 2,
+        "preco": 3.45
+    }
+]
